@@ -1,0 +1,1 @@
+export { postContentModel } from './post';
